@@ -97,10 +97,12 @@ El diferencial defendible no es el acceso a la IA (commodity). Es el **rigor de 
 
 ## 4. Avatares
 
+Ambos avatares viven en **EE.UU. o Puerto Rico** (§6). Esa ubicación no es un detalle demográfico: define el contexto de cada caso, la moneda de cada cifra y el léxico de cada guion.
+
 | | **A1 — Operador PYME** (primario) | **A2 — Formador / docente** (secundario) |
 |---|---|---|
-| Quién | Dueño o gerente de 3–50 empleados | Docente, capacitador corporativo, diseñador instruccional |
-| Dolor | Procesos manuales que consumen horas facturables | Le exigen "usar IA" sin criterio ni método |
+| Quién | Dueño o gerente de 3–50 empleados, negocio radicado en EE.UU. o PR, opera en español | Docente, capacitador corporativo o diseñador instruccional en institución estadounidense o puertorriqueña |
+| Dolor | Procesos manuales que consumen horas facturables, con costes laborales estadounidenses | Le exigen "usar IA" sin criterio ni método |
 | Busca | "cómo automatizar [su proceso] con ia" | No busca; llega por sugeridos |
 | Prueba de valor | Ahorró horas esta semana | Puede defender su decisión ante su institución |
 | Convierte en | Servicio de implementación / auditoría | Formación, certificación, plantillas |
@@ -124,17 +126,65 @@ Ordenada por ingreso esperado por cada 1,000 vistas, de mayor a menor. Las tres 
 
 ---
 
-## 6. Geografía y su efecto en el RPM
+## 6. Geografía — DECIDIDO: EE.UU. y Puerto Rico
 
-España concentra el 31.5% de las búsquedas de `inteligencia artificial` y el **45%** de `ganar dinero con ia`, y tiene el RPM más alto del bloque hispano medido ($3.20 vs $2.40). México aporta el mayor volumen in-country absoluto en los términos genéricos.
+**Audiencia objetivo fijada por el operador: hispanohablantes en EE.UU. y Puerto Rico.** Todo lo que sigue se deriva de esa decisión y reemplaza cualquier optimización hacia España o LATAM.
 
-**Decisión:** español neutro con léxico de negocio comprensible en ambos lados del Atlántico; evitar modismos locales fuertes; usar cifras en USD con equivalencia local solo cuando el ejemplo lo exija. No se hace una versión por país: fragmenta la señal del algoritmo sin ganancia proporcional de RPM.
+### 6.1 Lo que significa en números
 
-**Nota sobre Puerto Rico y el mercado hispano de EE.UU.:** medido, US y PR devuelven cifras **idénticas** ($96 / $240 / $576): PR se contabiliza dentro del bucket estadounidense. Es la banda de **mayor varianza** de todo el bloque hispano — el suelo más bajo ($0.96 de RPM) y el techo más alto ($5.76), por encima incluso del techo de España ($5.12).
+Medido, US y PR devuelven cifras **idénticas** ($96 / $240 / $576): PR se contabiliza dentro del bucket estadounidense. Es la banda de **mayor varianza** de todo el bloque hispano — suelo de $0.96 de RPM y techo de $5.76, por encima incluso del techo de España ($5.12).
 
-Cómo leer esa varianza: una banda ancha significa que **la composición real de tu audiencia decide el resultado**, no la geografía nominal. Un canal cuyos espectadores en EE.UU. sean profesionales con poder adquisitivo se acerca al techo; uno con audiencia hispana de perfil general cae al suelo. Es la única geografía hispana donde el techo se aproxima al mercado anglosajón, y también la única donde puedes quedar por debajo de Argentina. [INFERENCIA sobre datos verificados: la amplitud de la banda sugiere alta dispersión por composición de audiencia; no es un RPM garantizado en ninguna dirección.]
+Una banda ancha significa que **la composición real de tu audiencia decide el resultado**, no la geografía nominal. Espectadores profesionales con poder adquisitivo tiran hacia el techo; audiencia hispana de perfil general cae al suelo. Es la única geografía hispana donde puedes acercarte al mercado anglosajón, y también la única donde puedes terminar por debajo de Argentina. [INFERENCIA sobre datos verificados: la amplitud sugiere alta dispersión por composición de audiencia; no es un RPM garantizado en ninguna dirección.]
 
-**Decisión práctica:** si el operador tiene acceso natural a esa audiencia, se persigue el techo de US/PR. Si no, el objetivo de RPM es España — mediana más alta ($3.20) y banda más estrecha, es decir, más predecible.
+### 6.2 La tensión estructural que hay que gestionar
+
+**Tu demanda de búsqueda y tu audiencia monetizable están en países distintos.** Es el problema central de esta decisión y no se resuelve solo:
+
+| Término | Dónde está la búsqueda | Volumen in-country US |
+|---|---|---:|
+| `inteligencia artificial` | ES 31.5% · BR 11% · MX 9% · AR 8% · CO 7.5% | 20,858 |
+| `ganar dinero con ia` | **ES 45%** · BR 15% · CO 10% · US 5% | 3,050 |
+| `ia` | BR 29% · ES 17% · AR 7% | 35,621 |
+| `negocios` | — | 7,984 |
+| `finanzas` | — | **40,705** |
+
+Si publicas contenido genérico de IA en español, YouTube lo servirá mayoritariamente a España y LATAM. Eso paga AdSense decente ($3.20 en ES) pero **no construye la audiencia a la que puedes venderle**. Perseguir las keywords genéricas de mayor volumen es, bajo esta decisión, perseguir al público equivocado.
+
+### 6.3 El hueco real, y está vacío
+
+En el barrido de EE.UU. aparecen creadores buscados **por nombre**: `jon hernandez inteligencia artificial` (5,584), `oso trava` (5,584), `juan lombana` (3,125). Todos con base en España o México.
+
+**El público hispanohablante de EE.UU. está consumiendo contenido importado de IA porque no hay un referente local.** Ese es el hueco: no compites contra creadores estadounidenses hispanos consolidados en IA para negocios, porque el barrido no los encuentra. Compites contra contenido de otro país que no habla del contexto de negocio de tu espectador. [INFERENCIA sobre datos verificados: la ausencia en el barrido es indicio fuerte, no prueba de inexistencia.]
+
+Señal adicional: `finanzas` registra 40,705 de volumen in-country en EE.UU., casi el doble que `inteligencia artificial` (20,858). El interés financiero del hispanohablante estadounidense es sustancialmente mayor que su interés técnico en IA. Refuerza la regla de §1: el envoltorio es negocio y dinero, nunca tecnología.
+
+### 6.4 Reglas de anclaje a EE.UU./PR
+
+Estas reglas cuestan alcance genérico y compran la audiencia correcta. Es el intercambio que la decisión implica; hacerlas a medias entrega lo peor de ambos.
+
+1. **Contexto de negocio estadounidense en cada caso.** El ejemplo del video ocurre en una empresa que factura en USD, opera con proveedores y clientes de EE.UU. y se rige por sus prácticas. Un caso ambientado en un negocio de Madrid o Ciudad de México le dice al algoritmo —y al espectador— que el video no es para él.
+2. **Cifras en USD sin conversión ni equivalencia local.** Es el único mercado hispano donde no hay que traducir la moneda. Aprovéchalo: es señal de pertenencia.
+3. **Español neutro con anglicismos de negocio ya naturalizados en EE.UU.** — *payroll*, *invoice*, *small business*, *lead*. No los traduzcas por fidelidad lingüística: tu espectador los usa así. Evita en cambio el modismo regional fuerte de España o México, que marca procedencia ajena.
+4. **Regulación, impuestos e incentivos: verificar antes de guionizar.** Es el terreno donde más valor específico hay y donde una cifra inventada destruye la credibilidad del canal entero. Ninguna afirmación normativa o fiscal sobre EE.UU. o PR entra en un guion sin fuente nombrada en el dossier (P1). Si no se verifica, el video se hace sin ese dato.
+5. **Puerto Rico explícito cuando el caso lo permita.** Es mercado desatendido, comparte bucket de RPM con EE.UU. continental y casi ningún creador lo nombra. Nombrarlo es diferenciación barata.
+
+### 6.5 La pregunta del inglés, resuelta
+
+Business·inglés·US paga **$8.00** frente a **$2.40** en español: 3.3×. Tu audiencia es en buena parte bilingüe, así que la tentación es real.
+
+**Decisión: se mantiene el español.** Razones, en orden de peso:
+
+1. El mercado angloparlante de "AI for business" está saturado de operadores con mayor presupuesto de producción. Entrarías como uno más; en español-US entras como el único que habla del contexto local (§6.3).
+2. Bajo el modelo producto-primero (§5), el diferencial de RPM es ruido: $5.60 por cada mil vistas. Un solo cliente estadounidense supera cientos de miles de vistas de esa diferencia.
+3. El inglés no se descarta, se aplaza: es un **carril de reempaquetado** (`02` P9) cuando el sistema en español ya produzca leads, no un pivote.
+
+**Se reconsidera** solo si el canal supera 150K vistas/mes sin haber colocado producto.
+
+### 6.6 Qué deja de ser la métrica rectora
+
+Con esta decisión, perseguir el RPM pierde sentido definitivamente. El diferencial entre optimizar hacia España ($3.20) y quedarte en US ($2.40) es **$0.80 por cada mil vistas**: $80 por cada 100,000 vistas. Un cliente estadounidense de ticket medio supera ese diferencial acumulado durante más de un millón de vistas.
+
+**La ventaja real de EE.UU./PR no es el RPM. Es que el espectador paga en dólares y tiene tolerancia de precio estadounidense.** El sistema se optimiza para el lead, no para la impresión publicitaria. Ver `07 §6`.
 
 ## 7. Lo que este sistema NO hará
 

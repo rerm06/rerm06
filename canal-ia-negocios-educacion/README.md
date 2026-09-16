@@ -6,6 +6,8 @@ Sistema operativo completo para producir, publicar y medir un canal de YouTube e
 
 ---
 
+**Audiencia objetivo: hispanohablantes en EE.UU. y Puerto Rico** (decidido, `01 §6`). El sistema está anclado a esa geografía: contexto de negocio estadounidense en cada caso, cifras en USD sin conversión, y el inglés aplazado como carril de reempaquetado, no como pivote.
+
 ## Las tres conclusiones que cambian el plan por defecto
 
 1. **El RPM del "triángulo de alto RPM" no aplica en español.** Medido: Business·es·MX rinde **$2.40 RPM medio** frente a **$8.00** en Business·en·US, con los mismos parámetros. AdSense no es el modelo de negocio; es el subsidio de adquisición. → `01 §1`
@@ -46,6 +48,7 @@ Crea `videos/07-automatizar-gmail-con-ia/` con `dossier.md`, `guion.md`, `ficha.
 
 ## Qué falta y quién lo decide
 
+- ~~Audiencia geográfica~~ → **decidido: EE.UU. y Puerto Rico** (`01 §6`).
 - **Decisión de monetización** (`01 §5`): debe tomarse antes de grabar. Determina el guion, no al revés.
 - **Costes del stack** (`04 §1`): deliberadamente vacíos. Se consultan el día del montaje y se anotan; un presupuesto inventado es peor que ninguno.
 - **Recurso de captura de email**: el sistema lo asume existente desde el video 1. Sin él, la métrica rectora (`07 §6`) no se puede medir.

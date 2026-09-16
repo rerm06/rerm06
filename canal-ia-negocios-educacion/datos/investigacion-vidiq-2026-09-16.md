@@ -123,3 +123,46 @@ Calculadora vidIQ. **Los cinco parámetros no variables son idénticos en las 12
 | La IA no te va a quitar el trabajo: te lo va a quitar quien la usa mejor que tú | 76 |
 
 Patrón observado en esta muestra (n=3, **no es una ley**): el título con **sustantivo concreto + procedimiento + eliminación de fricción** puntuó por encima del título de experiencia personal, y este por encima del aforismo. Usar como hipótesis a validar, no como regla.
+
+---
+
+## 7. Barrido de EE.UU. — qué busca el hispanohablante estadounidense
+
+Modo `country_search`, país US, semilla `inteligencia artificial`, coincidencia amplia. La columna es **volumen de búsqueda mensual estimado dentro de EE.UU.** Comparable entre filas de esta misma consulta.
+
+| Keyword | Volumen in-country US |
+|---|---:|
+| ai | 723,460 |
+| claude | 396,786 |
+| openai | 181,181 |
+| gemini | 80,851 |
+| elon musk | 128,664 |
+| chatgpt | 187,975 |
+| chat gpt | 46,447 |
+| **finanzas** | **40,705** |
+| robots | 39,406 |
+| **ia** | **35,621** |
+| noticias | 23,495 |
+| **inteligencia artificial** | **20,858** |
+| ciencia | 10,446 |
+| machine learning | 9,773 |
+| deep learning | 8,255 |
+| **negocios** | **7,984** |
+| inteligencia | 6,067 |
+| **jon hernandez inteligencia artificial** | **5,584** |
+| **oso trava** | **5,584** |
+| sociedad | 4,064 |
+| tecnología | 4,037 |
+| **juan lombana** | **3,125** |
+| jon hernandez | 3,050 |
+| deutsche welle | 3,365 |
+
+### Lecturas
+
+**a) La demanda en español de IA dentro de EE.UU. es real pero minoritaria.** `inteligencia artificial` registra 20,858 in-country frente a 519,120 globales (§1) y 44,033 en México: EE.UU. pesa en torno al 4% de la demanda global de ese término y menos de la mitad que México. Publicar contenido genérico en español significa, en la práctica, ser servido a España y LATAM.
+
+**b) Los creadores que busca esta audiencia están fuera de EE.UU.** `jon hernandez` (España), `oso trava` y `juan lombana` (México) aparecen buscados por nombre desde territorio estadounidense. El hispanohablante de EE.UU. consume contenido **importado** de IA y negocios. El barrido no devuelve ningún referente local equivalente. [INFERENCIA: la ausencia en este barrido es indicio fuerte de hueco de mercado, no prueba de inexistencia.]
+
+**c) El interés financiero supera al técnico.** `finanzas` (40,705) casi duplica a `inteligencia artificial` (20,858) y supera a `ia` (35,621). `negocios` (7,984) triplica a `tecnología` (4,037). Confirma desde el lado de la demanda estadounidense la misma conclusión que §5-b sacaba desde el lado del RPM: el envoltorio es dinero y negocio, nunca tecnología.
+
+**d) Advertencia de lectura.** Términos como `ai`, `claude`, `openai`, `gemini` y `chatgpt` son agnósticos de idioma: su volumen in-country mezcla búsquedas en inglés y en español. No los interpretes como demanda hispanohablante.

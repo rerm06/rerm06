@@ -6,6 +6,8 @@ Cada título está anclado a una keyword **medida** el 2026-09-16 (`datos/invest
 
 **Orden de publicación deliberado:** los primeros 12 videos atacan las keywords de **competencia más baja** (10–20), no las de mayor volumen. Un canal sin autoridad no gana un término con competencia 50; gana tres términos con competencia 12 y usa esa señal para que el algoritmo aprenda a quién mostrarle el canal. El volumen se persigue a partir de la semana 7.
 
+> **Anclaje obligatorio a EE.UU./PR** (`01 §6.4`). La keyword abre la puerta; el **caso dentro del video** decide a quién se le sirve después. Cada uno de estos 36 videos se ambienta en un negocio radicado en EE.UU. o Puerto Rico, con cifras en USD sin conversión. Un video de keyword genérica y caso ambientado en España o México captará tráfico español que no es tu audiencia monetizable, y enseñará al algoritmo a seguir mandándotelo. La keyword es global; el caso es local, y el caso pesa más.
+
 ---
 
 ## Fase 1 · Semanas 1–4 — Tomar territorio de baja competencia
