@@ -12,14 +12,22 @@ El framework de origen (el post que motivó este sistema) afirma un "triángulo 
 
 Lo que sí está medido (§5 de `datos/investigacion-vidiq-2026-09-16.md`, estimador vidIQ, 100K vistas/mes, long-form, canal de 10K subs):
 
-| Escenario | RPM implícito medio |
-|---|---:|
-| Business · inglés · US | **$8.00** |
-| Business · español · España | $3.20 |
-| Business · español · US o México | $2.40 |
-| Education · español · México | $1.80 |
+| Escenario (mismos parámetros, solo cambia categoría/país/idioma) | RPM medio | RPM techo |
+|---|---:|---:|
+| Business · inglés · US | **$8.00** | $12.80 |
+| **Business · español · España** ← techo del español | **$3.20** | $5.12 |
+| Business · español · US / Puerto Rico | $2.40 | **$5.76** |
+| Business · español · México | $2.40 | $3.84 |
+| Education · español · España | $2.40 | $3.84 |
+| Business · español · Chile | $2.00 | $3.20 |
+| Technology · español · España | $2.00 | $3.20 |
+| Education · español · México | $1.80 | $2.88 |
+| Business · español · Argentina / Colombia | $1.60 | $2.56 |
+| Technology · español · US | $1.50 | $3.60 |
 
-**Consecuencia estratégica, no cosmética:** con RPM de ~$2.40, un canal en español necesita **~416,000 vistas/mes para generar $1,000 de AdSense** [INFERENCIA aritmética sobre el dato anterior]. Eso es un canal ya consolidado produciendo un ingreso de nivel freelance junior.
+**El techo medible del español es $3.20** (Business·ES). Ninguna de las 12 combinaciones en español lo supera, y está 2.5× por debajo del mismo contenido en inglés-US.
+
+**Consecuencia estratégica, no cosmética:** con RPM de ~$2.40, un canal en español necesita **~416,000 vistas/mes para generar $1,000 de AdSense**. Incluso en el mejor escenario medible del español ($3.20, Business·ES) hacen falta **~312,000 vistas/mes** para el mismo dólar [INFERENCIA aritmética sobre los datos de la tabla]. Eso es un canal ya consolidado produciendo un ingreso de nivel freelance junior.
 
 Por lo tanto:
 
@@ -27,6 +35,19 @@ Por lo tanto:
 > El canal es un sistema de generación de demanda para un producto de margen alto vendido a una audiencia profesional. El RPM real de este canal no se mide en dólares por mil vistas; se mide en **leads calificados por mil vistas**.
 
 Esto no es una degradación del proyecto: es lo que lo hace viable. Un canal de 40,000 vistas/mes que coloca 8 consultorías o 25 plazas de formación supera por un orden de magnitud a uno de 400,000 vistas viviendo de publicidad. La decisión de monetización está en §5 de este documento y **debe tomarse antes de grabar el primer video**, porque determina el guion.
+
+### La palanca gratuita: encuadrar la IA como negocio, no como tecnología
+
+Medido, misma audiencia y mismo idioma:
+
+| País | Categoría Business | Categoría Technology | Diferencia |
+|---|---:|---:|---:|
+| España | $3.20 | $2.00 | **+60%** |
+| US hispano | $2.40 | $1.50 | **+60%** |
+
+Un canal de IA que se presenta, se categoriza y se titula como **tecnología** cobra un 60% menos que el mismo canal presentado como **negocio**. No cuesta producción, no cuesta tiempo: es una decisión de encuadre. Es la palanca de RPM más barata disponible y refuerza, desde el lado del ingreso, la misma conclusión que §2 sacaba desde el lado de la demanda.
+
+Corolario incómodo para el eje educativo: *Education* tampoco es refugio. En España rinde $2.40 —por encima de Technology, por debajo de Business—; en México cae a $1.80, el suelo del barrido junto con Argentina y Colombia.
 
 **Alternativa descartada:** producir en inglés para capturar el RPM de $8.00. Descartada porque (a) la ventaja competitiva del operador está en el mercado hispanohablante y en el dominio educativo, (b) la competencia anglosajona en "AI for business" está saturada de operadores con presupuesto de producción superior, (c) el modelo producto-primero hace irrelevante el diferencial de RPM. **Reconsiderar** si y solo si el canal supera 150K vistas/mes sin producto vendible.
 
@@ -109,9 +130,11 @@ España concentra el 31.5% de las búsquedas de `inteligencia artificial` y el *
 
 **Decisión:** español neutro con léxico de negocio comprensible en ambos lados del Atlántico; evitar modismos locales fuertes; usar cifras en USD con equivalencia local solo cuando el ejemplo lo exija. No se hace una versión por país: fragmenta la señal del algoritmo sin ganancia proporcional de RPM.
 
-**Nota sobre Puerto Rico y el mercado hispano de EE.UU.:** el tráfico de PR se contabiliza como US. El escenario Business·es·US medido tiene la **banda más amplia** de todo el bloque hispano ($96–$576, techo de RPM $5.76 frente a $3.84 de MX). Es la única geografía hispana donde el techo se acerca al mercado anglosajón. Si el operador tiene acceso natural a esa audiencia, es la palanca de RPM de mayor retorno disponible sin cambiar de idioma. [INFERENCIA sobre datos verificados: la banda ancha sugiere alta varianza por composición de audiencia, no un RPM garantizado.]
+**Nota sobre Puerto Rico y el mercado hispano de EE.UU.:** medido, US y PR devuelven cifras **idénticas** ($96 / $240 / $576): PR se contabiliza dentro del bucket estadounidense. Es la banda de **mayor varianza** de todo el bloque hispano — el suelo más bajo ($0.96 de RPM) y el techo más alto ($5.76), por encima incluso del techo de España ($5.12).
 
----
+Cómo leer esa varianza: una banda ancha significa que **la composición real de tu audiencia decide el resultado**, no la geografía nominal. Un canal cuyos espectadores en EE.UU. sean profesionales con poder adquisitivo se acerca al techo; uno con audiencia hispana de perfil general cae al suelo. Es la única geografía hispana donde el techo se aproxima al mercado anglosajón, y también la única donde puedes quedar por debajo de Argentina. [INFERENCIA sobre datos verificados: la amplitud de la banda sugiere alta dispersión por composición de audiencia; no es un RPM garantizado en ninguna dirección.]
+
+**Decisión práctica:** si el operador tiene acceso natural a esa audiencia, se persigue el techo de US/PR. Si no, el objetivo de RPM es España — mediana más alta ($3.20) y banda más estrecha, es decir, más predecible.
 
 ## 7. Lo que este sistema NO hará
 
