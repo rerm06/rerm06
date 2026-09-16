@@ -262,6 +262,44 @@ Sin jerga pedagógica. Cada afirmación debe poder ejecutarse el lunes por la ma
 
 ---
 
+## P11 — El caso como relato de reversión
+
+*Aplica al bloque 3 del guion (5:30–8:00). Nace del barrido de `datos/faceless-historias-animacion-2026-09-16.md`: el mecanismo narrativo con más tracción en español ahora mismo es el relato de reversión, y funciona igual en una empresa que en una familia.*
+
+```
+Convierte el caso de este video en un RELATO DE REVERSIÓN de 2 a 3 minutos.
+No es un ejemplo ilustrativo: es una historia con giro.
+
+Estructura obligatoria:
+1. SITUACIÓN ESTABLE, con un detalle concreto que la haga real (una cifra, un
+   cargo, una hora del día, un nombre de proceso). 20 segundos como máximo.
+2. LA GRIETA. Algo que ya estaba mal y nadie miraba. Se nombra, no se explica.
+3. EL COSTE, con número. Horas perdidas, dinero, un cliente, una persona que
+   se fue. Sin cifra no hay reversión, hay anécdota.
+4. EL GIRO. Qué cambió exactamente, y por qué funcionó cuando lo obvio no.
+5. EL ESTADO NUEVO, medido contra el punto 1 con la misma unidad.
+
+Reglas duras:
+- El caso ocurre en un negocio radicado en EE.UU. o Puerto Rico (01 §6.4).
+  Cifras en USD sin conversión.
+- Prohibido inventar la empresa, la persona o el número. Si el caso es real,
+  se anonimiza pero no se adorna. Si es compuesto, se dice en el audio:
+  "es un caso compuesto a partir de varios que he visto".
+- El protagonista es el espectador, no la herramienta. La IA es lo que pasó,
+  no quién actuó.
+- Sin moraleja explícita al final. El espectador saca la conclusión; si se la
+  dices, la desactivas.
+
+Entrega el relato y, debajo, en una línea: cuál es la reversión y en qué
+segundo cae.
+```
+
+**Por qué funciona, con evidencia:** canales de 1,750 a 7,490 suscriptores usando este mecanismo con encuadre de empresa hacen entre 28K y 79K vistas por video. Uno de ellos, *Lágrimas de Hierro* (1,750 subs), está categorizado como **Business** y titula con la cifra dentro del propio título. Ver el anexo para las cifras completas.
+
+**Límite:** el mecanismo se toma prestado; el modelo de negocio de esos canales, no. Operan en categorías de RPM bajo, sin marca y sin producto. Se roba la técnica narrativa, no la estrategia.
+
+---
+
 ## Uso en lote (día 1 del ciclo, ver `04-pipeline-de-produccion.md`)
 
 Una conversación **por video**, nunca una conversación con diez videos: el contexto se contamina y los guiones empiezan a parecerse entre sí, lo que destruye la variedad de hooks. La instrucción de proyecto se define una sola vez y se reutiliza.
