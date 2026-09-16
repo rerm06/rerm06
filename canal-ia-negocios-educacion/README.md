@@ -23,12 +23,14 @@ Sistema operativo completo para producir, publicar y medir un canal de YouTube e
 | Documento | Qué resuelve | Cuándo se usa |
 |---|---|---|
 | `01-estrategia-y-nicho.md` | Posicionamiento, avatares, monetización, geografía | **Antes del video 1.** Contiene una decisión que bloquea todo lo demás. |
-| `02-biblioteca-de-prompts.md` | 10 prompts encadenados P1→P10 | Cada video, día 1 del ciclo |
+| `02-biblioteca-de-prompts.md` | 12 prompts encadenados P1→P12 (P12 produce los cortos por serie) | Cada pieza, día de guion |
 | `03-arquitectura-de-retencion.md` | Mapa de segundos, loops, puntos de fuga, checklist binario | Cada guion, sin excepción |
 | `04-pipeline-de-produccion.md` | Stack, ciclo de 4 días, 3 puertas de calidad | Cada ciclo de 10 videos |
 | `05-ctr-titulos-y-thumbnails.md` | Anatomía de título y miniatura, protocolo de iteración | Antes de publicar y a las 48 h |
 | `06-calendario-90-dias.md` | 36 videos anclados a keywords medidas | Planificación trimestral |
 | `07-metricas-y-decisiones.md` | Umbrales con decisión forzada, diagnóstico cruzado | Revisión semanal y mensual |
+| **`08-formato-corto.md`** | Vertical corto para TikTok/Reels/Shorts: arquitectura de 50 s, un máster para tres plataformas, embudo y métricas propias | **Formato principal.** Cada corto |
+| **`09-formato-y-estilo.md`** | La biblia: firma fija, registro de voz, tres series con función de embudo, guiones de ejemplo, protocolo de validación | **Antes del corto 1** y en cada revisión de semana 5 y 10 |
 | `datos/` | Investigación cruda verificada | Re-ejecutar cada 90 días |
 
 ## Uso
