@@ -150,11 +150,17 @@ Una banda ancha significa que **la composición real de tu audiencia decide el r
 
 Si publicas contenido genérico de IA en español, YouTube lo servirá mayoritariamente a España y LATAM. Eso paga AdSense decente ($3.20 en ES) pero **no construye la audiencia a la que puedes venderle**. Perseguir las keywords genéricas de mayor volumen es, bajo esta decisión, perseguir al público equivocado.
 
-### 6.3 El hueco real, y está vacío
+### 6.3 El hueco real — CORREGIDO: no es geográfico, es de formato
 
 En el barrido de EE.UU. aparecen creadores buscados **por nombre**: `jon hernandez inteligencia artificial` (5,584), `oso trava` (5,584), `juan lombana` (3,125). Todos con base en España o México.
 
-**El público hispanohablante de EE.UU. está consumiendo contenido importado de IA porque no hay un referente local.** Ese es el hueco: no compites contra creadores estadounidenses hispanos consolidados en IA para negocios, porque el barrido no los encuentra. Compites contra contenido de otro país que no habla del contexto de negocio de tu espectador. [INFERENCIA sobre datos verificados: la ausencia en el barrido es indicio fuerte, no prueba de inexistencia.]
+> **Corrección (2026-09-16).** Este apartado afirmaba que no existía un referente local y que el hueco era geográfico. **Era falso.** Existe **Joshua Castro** (Guaynabo, PR): Soy Un Glitch, Lumynal, Glitch One, con ~634K en TikTok y ~241K en Instagram [auto-declarado], y un negocio de talleres corporativos, consultoría y software de agentes. El barrido de vidIQ no lo encontró porque cubre YouTube long-form y su presencia dominante está en short-form y podcast: fallo de cobertura del instrumento, no del dato. Análisis completo en `datos/competencia-pr-2026-09-16.md`.
+
+**Lo que sigue siendo cierto:** la búsqueda genérica en español sigue dominada por creadores de España y México, y el contexto de negocio estadounidense sigue sin atenderse en vídeo largo.
+
+**Lo que cambia:** el hueco **no es geográfico, es de formato y de registro**. Castro opera short-form, con cara, en registro futurista y conceptual. Este proyecto opera long-form, faceless, en registro procedimental e instruccional. La promesa de él es *ver lo que viene*; la de este canal es *saber hacerlo el lunes*. Se compite en el mismo mercado por ejes distintos.
+
+**Lo que su existencia valida:** construyó sobre talleres, consultoría y software, no sobre AdSense — exactamente el modelo producto-primero de §1 y §5, ya probado en Puerto Rico.
 
 Señal adicional: `finanzas` registra 40,705 de volumen in-country en EE.UU., casi el doble que `inteligencia artificial` (20,858). El interés financiero del hispanohablante estadounidense es sustancialmente mayor que su interés técnico en IA. Refuerza la regla de §1: el envoltorio es negocio y dinero, nunca tecnología.
 
@@ -194,3 +200,5 @@ Declarado por adelantado para que no se convierta en deuda silenciosa:
 - **No hará "Top 10 herramientas de IA".** Alto volumen, retención baja, cero diferenciación, caduca en 90 días.
 - **No usará video generativo como recurso principal.** Runway/Pika sirven para 5–10 segundos de apoyo; sostener 12 minutos con clips generados produce el "look de IA" que hunde la retención. Ver `04-pipeline-de-produccion.md` §3.
 - **No publicará sin el checklist de `07-metricas-y-decisiones.md` §1.**
+
+**Revisión abierta sobre el faceless.** En un mercado del tamaño de Puerto Rico, una marca personal consolidada gana confianza más rápido que un canal sin cara, y el operador de referencia del mercado (`datos/competencia-pr-2026-09-16.md`) da la cara. La estrategia faceless paga velocidad de producción con lentitud de confianza. Si el producto es consultoría o formación —venta de alta confianza—, conviene decidir explícitamente si el anonimato sigue siendo lo correcto. **Decisión del operador, no del sistema.**

@@ -60,6 +60,12 @@ Ninguna se salta. Cada una se responde PASA/FALLA.
 
 ---
 
+### Regla de cobertura competitiva
+
+**Un barrido de YouTube no es un mapa competitivo.** La herramienta de outliers cubre vídeo largo de YouTube; no ve TikTok, Instagram, LinkedIn ni podcasts. Antes de afirmar que un espacio está vacío —o de posicionarse como si lo estuviera— hay que mirar esas cuatro superficies a mano. Este sistema ya cometió ese error una vez y está documentado en `datos/competencia-pr-2026-09-16.md` §1.
+
+---
+
 ## 5. Los tres fallos que hunden un canal faceless, y su contramedida
 
 1. **Deriva de calidad en el guion 7 de 10.** El cansancio del día 1 produce guiones progresivamente más planos. **Contramedida:** escribe los guiones en orden inverso de importancia — los temas de mayor potencial se escriben primero, cuando tienes criterio fresco.

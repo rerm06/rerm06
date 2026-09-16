@@ -161,6 +161,8 @@ Modo `country_search`, país US, semilla `inteligencia artificial`, coincidencia
 
 **a) La demanda en español de IA dentro de EE.UU. es real pero minoritaria.** `inteligencia artificial` registra 20,858 in-country frente a 519,120 globales (§1) y 44,033 en México: EE.UU. pesa en torno al 4% de la demanda global de ese término y menos de la mitad que México. Publicar contenido genérico en español significa, en la práctica, ser servido a España y LATAM.
 
+> **CORRECCIÓN (2026-09-16):** la lectura (b) de abajo concluía que no existe referente local. **Es falsa.** Ver `competencia-pr-2026-09-16.md`. El barrido cubre YouTube long-form y no detecta operadores cuya presencia dominante está en short-form o podcast. Se conserva el texto original para dejar constancia del error.
+
 **b) Los creadores que busca esta audiencia están fuera de EE.UU.** `jon hernandez` (España), `oso trava` y `juan lombana` (México) aparecen buscados por nombre desde territorio estadounidense. El hispanohablante de EE.UU. consume contenido **importado** de IA y negocios. El barrido no devuelve ningún referente local equivalente. [INFERENCIA: la ausencia en este barrido es indicio fuerte de hueco de mercado, no prueba de inexistencia.]
 
 **c) El interés financiero supera al técnico.** `finanzas` (40,705) casi duplica a `inteligencia artificial` (20,858) y supera a `ia` (35,621). `negocios` (7,984) triplica a `tecnología` (4,037). Confirma desde el lado de la demanda estadounidense la misma conclusión que §5-b sacaba desde el lado del RPM: el envoltorio es dinero y negocio, nunca tecnología.
