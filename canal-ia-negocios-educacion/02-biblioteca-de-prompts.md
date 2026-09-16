@@ -345,6 +345,8 @@ Reglas transversales:
 - Frases de 8 a 12 palabras. En vertical, una frase larga es una salida.
 ```
 
+**Encadenado con `09-formato-y-estilo.md`:** cada corto pertenece a una de las tres series, y el prompt debe recibir cuál. Añade al principio: `SERIE: [EL ERROR DE $ | HAZLO EL LUNES | TU EQUIPO NO LO USA]`, y exige la apertura fija y el cierre en bucle de esa serie tal como los define `09 §4`. Un corto sin serie no se escribe.
+
 **Encadenado con P1:** el dossier sigue siendo obligatorio. Cinco cortos mal documentados propagan un error inventado cinco veces y a más gente que un solo largo.
 
 **Encadenado con P5:** la auditoría adversarial se hace igual, en conversación nueva, con una pregunta distinta: *¿en qué segundo exacto deslizo el dedo, y por qué?*
