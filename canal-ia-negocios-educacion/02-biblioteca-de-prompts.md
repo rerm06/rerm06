@@ -300,6 +300,57 @@ segundo cae.
 
 ---
 
+## P12 — Corto vertical para TikTok, Reels y Shorts
+
+*El prompt principal si trabajas en formato corto (`08-formato-corto.md`). Sustituye a P2–P4, no los complementa: la arquitectura del largo no aplica en 50 segundos.*
+
+```
+Escribe 5 cortos verticales de 45 a 55 segundos sobre: {{TEMA}}.
+Cada uno desarrolla UNA sola idea. Si el tema da para tres pasos, son tres
+cortos distintos, nunca un corto con tres pasos.
+
+Para cada corto entrega esta estructura, con marca de tiempo:
+
+[0:00-0:02] FOTOGRAMA CERO
+  - TEXTO EN PANTALLA: máximo 7 palabras, dice ya el beneficio o el error.
+  - IMAGEN: qué se ve exactamente.
+  Prueba que debe pasar: si congelas este fotograma y lo miras sin sonido,
+  ¿se entiende de qué va? Si no, reescríbelo.
+
+[0:02-0:06] COSTE O CONTRADICCIÓN
+  Una frase, máximo 12 palabras, con cifra o con el error que comete quien mira.
+
+[0:06-0:35] LA ÚNICA COSA
+  El paso, demostrado. Indica qué se ve en pantalla en cada momento.
+  Un corte visual cada 2-3 segundos: enuméralos.
+
+[0:35-0:48] LA PRUEBA
+  Qué produjo: minutos, dólares, el resultado visible. Se muestra, no se promete.
+
+[0:48-0:55] CIERRE EN BUCLE
+  Una frase que enlace con el fotograma cero, de modo que si el vídeo se
+  reinicia parezca continuo.
+  PROHIBIDO: "sígueme", "dale like", "comenta abajo", "link en bio".
+
+Después de los 5 cortos, entrega para cada uno:
+- TÍTULO PARA YOUTUBE SHORTS con la keyword objetivo (Shorts sí se busca).
+- PIE PARA TIKTOK: coloquial, el gancho en las primeras 4 palabras, 3-5 hashtags.
+- PIE PARA INSTAGRAM: una frase con gancho, hashtags al final.
+- FOTOGRAMA DE PORTADA sugerido para la cuadrícula de Instagram.
+
+Reglas transversales:
+- Escrito para verse EN SILENCIO. Todo lo esencial va en texto en pantalla.
+- El caso ocurre en un negocio de EE.UU. o Puerto Rico. Cifras en USD sin conversión.
+- Ninguna cifra que no esté en el dossier P1. Sin dossier, no hay cifra.
+- Frases de 8 a 12 palabras. En vertical, una frase larga es una salida.
+```
+
+**Encadenado con P1:** el dossier sigue siendo obligatorio. Cinco cortos mal documentados propagan un error inventado cinco veces y a más gente que un solo largo.
+
+**Encadenado con P5:** la auditoría adversarial se hace igual, en conversación nueva, con una pregunta distinta: *¿en qué segundo exacto deslizo el dedo, y por qué?*
+
+---
+
 ## Uso en lote (día 1 del ciclo, ver `04-pipeline-de-produccion.md`)
 
 Una conversación **por video**, nunca una conversación con diez videos: el contexto se contamina y los guiones empiezan a parecerse entre sí, lo que destruye la variedad de hooks. La instrucción de proyecto se define una sola vez y se reutiliza.

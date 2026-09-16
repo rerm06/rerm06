@@ -6,6 +6,8 @@ Sistema operativo completo para producir, publicar y medir un canal de YouTube e
 
 ---
 
+**Formato principal: vertical corto** (`08`), publicado en TikTok, Instagram Reels y YouTube Shorts. El sistema de vídeo largo (`03`–`06`) no se descarta: **el corto es el laboratorio, el largo es la conversión.** Un tema se prueba en corto por 48 horas y solo asciende a largo si supera sus umbrales.
+
 **Audiencia objetivo: hispanohablantes en EE.UU. y Puerto Rico** (decidido, `01 §6`). El sistema está anclado a esa geografía: contexto de negocio estadounidense en cada caso, cifras en USD sin conversión, y el inglés aplazado como carril de reempaquetado, no como pivote.
 
 ## Las tres conclusiones que cambian el plan por defecto
