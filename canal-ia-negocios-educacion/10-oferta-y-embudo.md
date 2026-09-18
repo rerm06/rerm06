@@ -47,6 +47,8 @@ Un PDF de "10 herramientas de IA" captura emails que no valen nada. Un diagnóst
 2. **Califica**: sus respuestas te dicen tamaño de equipo, herramientas ya compradas, y en qué punto se rompió la adopción.
 3. **Vende sin vender**: el resultado le pone **una cifra** al problema. Esa cifra es el ancla de tu precio.
 
+> **Especificación completa, lista para pegar en un formulario:** `plantillas/diagnostico-adopcion.md` — opciones exactas, lógica de puntuación, fórmula de la cifra, los cinco textos de resultado y el correo de entrega.
+
 **Las 12 preguntas, por bloque:**
 
 | Bloque | Preguntas | Qué mide |
@@ -54,7 +56,7 @@ Un PDF de "10 herramientas de IA" captura emails que no valen nada. Un diagnóst
 | **Punto de partida** (3) | Cuántas personas · qué herramienta de IA pagan hoy · desde cuándo | Tamaño y gasto existente |
 | **Uso real** (4) | Cuántos la abrieron esta semana · quién la usa a diario · para qué tarea concreta · si alguien la abandonó y cuándo | La brecha entre licencia y uso |
 | **Proceso** (3) | Qué tarea repetitiva consume más horas · quién la hace · cuántas horas por semana | El coste, en horas |
-| **Intento previo** (2) | Si hubo capacitación · qué pasó a las dos semanas | Si ya fallaron una vez y por qué |
+| **Intento previo y medición** (2) | Si hubo capacitación · si miden las horas ahorradas | Si ya fallaron una vez, y si pueden detectar el escalón 3 |
 
 **El resultado que devuelve** (tres escalones, más la cifra):
 
@@ -114,7 +116,7 @@ Variante para LinkedIn, donde cabe más y el registro es otro:
 
 En orden. Ninguno lleva más de una tarde:
 
-1. **El diagnóstico funcionando** — formulario de 12 preguntas con resultado automático. Cualquier herramienta de formularios con lógica condicional sirve; no hace falta desarrollo.
+1. **El diagnóstico funcionando** — formulario de 12 preguntas con resultado automático. Todo el contenido está especificado en `plantillas/diagnostico-adopcion.md`; solo hay que pegarlo. Cualquier herramienta de formularios con lógica condicional sirve; no hace falta desarrollo.
 2. **La página del diagnóstico** — una sola pantalla: la promesa, el tiempo que toma, el botón. Nada más.
 3. **El correo de entrega** — el resultado, la cifra, y una sola pregunta abierta: *"¿Cuál de los tres escalones te suena más al tuyo?"*. Esa respuesta abre la conversación de venta sin que tengas que empujarla.
 4. **Las tres bios** publicadas y coherentes.
