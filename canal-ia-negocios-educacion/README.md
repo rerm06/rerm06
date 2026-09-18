@@ -31,6 +31,7 @@ Sistema operativo completo para producir, publicar y medir un canal de YouTube e
 | `07-metricas-y-decisiones.md` | Umbrales con decisión forzada, diagnóstico cruzado | Revisión semanal y mensual |
 | **`08-formato-corto.md`** | Vertical corto para TikTok/Reels/Shorts: arquitectura de 50 s, un máster para tres plataformas, embudo y métricas propias | **Formato principal.** Cada corto |
 | **`09-formato-y-estilo.md`** | La biblia: firma fija, registro de voz, tres series con función de embudo, guiones de ejemplo, protocolo de validación | **Antes del corto 1** y en cada revisión de semana 5 y 10 |
+| **`10-oferta-y-embudo.md`** | Qué se vende, la escalera de cuatro escalones, el diagnóstico de 12 preguntas, el método de precio y las bios | **Antes del corto 1.** Sin esto el embudo no existe |
 | `datos/` | Investigación cruda verificada | Re-ejecutar cada 90 días |
 
 ## Uso
@@ -53,6 +54,6 @@ Crea `videos/07-automatizar-gmail-con-ia/` con `dossier.md`, `guion.md`, `ficha.
 ## Qué falta y quién lo decide
 
 - ~~Audiencia geográfica~~ → **decidido: EE.UU. y Puerto Rico** (`01 §6`).
-- **Decisión de monetización** (`01 §5`): debe tomarse antes de grabar. Determina el guion, no al revés.
+- ~~Decisión de monetización~~ → **decidida: adopción, no automatización** (`10 §1`).
 - **Costes del stack** (`04 §1`): deliberadamente vacíos. Se consultan el día del montaje y se anotan; un presupuesto inventado es peor que ninguno.
-- **Recurso de captura de email**: el sistema lo asume existente desde el video 1. Sin él, la métrica rectora (`07 §6`) no se puede medir.
+- **Los cuatro activos de `10 §7`**: diagnóstico, página, correo de entrega y bios. Es lo único que bloquea el corto 1.

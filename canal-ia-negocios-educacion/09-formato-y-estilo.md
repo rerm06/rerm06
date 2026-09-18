@@ -31,13 +31,28 @@ Esta tabla es el contrato. Si un corto incumple una fila, no se publica.
 | **Duración** | 45–55 s. Nunca más de 60. |
 | **Estructura** | La de `08 §2`: número → coste/contradicción → una sola cosa → prueba → cierre en bucle. |
 | **Subtítulos** | Quemados, siempre, misma tipografía, misma posición (tercio superior-medio, dentro de la zona segura de `08 §4`). |
-| **Color semántico** | Un color para **coste** (lo que se pierde), otro para **resultado** (lo que se gana). Se usan solo para eso. El espectador aprende a leer el corto por color. |
+| **Color semántico** | Fijados en §2.1. Coste y resultado tienen su color y **nunca se usan para otra cosa**. El espectador aprende a leer el corto por color. |
 | **Pantalla** | Grabación real de la herramienta, cursor visible, zoom al punto exacto. **Cero vídeo generativo.** Cero stock de gente sonriendo. |
 | **Voz** | Voz humana propia, ritmo conversacional, sin música que compita. Ver §6 sobre por qué no sintética. |
 | **Léxico** | Segunda persona singular. USD sin conversión. Anglicismos de negocio naturalizados en EE.UU. (*payroll, invoice, lead, small business*) se usan tal cual. Lista negra de `03 §6` vigente. |
 | **Cierre** | Frase que empalma con el fotograma cero (bucle). Prohibido "sígueme", "link en bio", "comenta". |
 | **Cadencia** | 3 por semana, mismos días y horas, rotando serie 1 → 2 → 3. |
 | **Categoría** | Negocios. En las tres plataformas. Nunca Tecnología. |
+
+### 2.1 La paleta, fijada
+
+| Rol | Hex | Contraste sobre el fondo | Uso |
+|---|---|---:|---|
+| **Fondo** | `#0B0F14` | — | Todo fotograma cero y todo texto pleno. Negro azulado, no negro puro: el negro puro se aplasta en pantallas OLED y el subtítulo pierde borde. |
+| **Coste** | `#FF8A3D` | **8.2 : 1** | La cifra que se pierde. Horas, dólares, licencias muertas. |
+| **Resultado** | `#2FD98A` | **10.5 : 1** | La cifra que se gana. Solo aparece después de la prueba. |
+| **Texto** | `#FFFFFF` | **19.2 : 1** | Subtítulos y línea del fotograma cero. |
+
+Los tres superan con holgura el mínimo de 4.5:1 de WCAG AA, que en vertical importa más de lo habitual: se ve a 40 cm, con sol, y a veces con el brillo al mínimo.
+
+**Regla de daltonismo — no negociable.** Ámbar y verde se confunden en deuteranopia y protanopia, que afectan a cerca del 8% de los hombres. **El color nunca es el único canal:** toda cifra de coste lleva `−` o `↓` delante, toda cifra de resultado lleva `+` o `↑`. Si quitas el color y el corto sigue entendiéndose, está bien hecho.
+
+**Tipografía del número:** una sans grotesca de peso Black o Heavy, sin serifas, con cifras de altura uniforme. El número ocupa entre el 35% y el 45% del alto del fotograma. Si dudas entre dos tamaños, el más grande.
 
 ### Lo que SÍ cambia (y es todo lo que cambia)
 
