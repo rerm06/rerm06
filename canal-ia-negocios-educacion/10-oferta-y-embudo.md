@@ -117,7 +117,7 @@ Variante para LinkedIn, donde cabe más y el registro es otro:
 En orden. Ninguno lleva más de una tarde:
 
 1. **El diagnóstico funcionando** — formulario de 12 preguntas con resultado automático. Todo el contenido está especificado en `plantillas/diagnostico-adopcion.md`; solo hay que pegarlo. Cualquier herramienta de formularios con lógica condicional sirve; no hace falta desarrollo.
-2. **La página del diagnóstico** — una sola pantalla: la promesa, el tiempo que toma, el botón. Nada más.
+2. **La página del diagnóstico** — una sola pantalla: la promesa, el tiempo que toma, el botón. Copy completo y especificación visual en `plantillas/pagina-diagnostico.md`, incluido lo que NO debe ir y por qué.
 3. **El correo de entrega** — el resultado, la cifra, y una sola pregunta abierta: *"¿Cuál de los tres escalones te suena más al tuyo?"*. Esa respuesta abre la conversación de venta sin que tengas que empujarla.
 4. **Las tres bios** publicadas y coherentes.
 

@@ -32,6 +32,7 @@ Sistema operativo completo para producir, publicar y medir un canal de YouTube e
 | **`08-formato-corto.md`** | Vertical corto para TikTok/Reels/Shorts: arquitectura de 50 s, un máster para tres plataformas, embudo y métricas propias | **Formato principal.** Cada corto |
 | **`09-formato-y-estilo.md`** | La biblia: firma fija, registro de voz, tres series con función de embudo, guiones de ejemplo, protocolo de validación | **Antes del corto 1** y en cada revisión de semana 5 y 10 |
 | **`10-oferta-y-embudo.md`** | Qué se vende, la escalera de cuatro escalones, el diagnóstico de 12 preguntas, el método de precio y las bios | **Antes del corto 1.** Sin esto el embudo no existe |
+| `plantillas/` | Diagnóstico de 12 preguntas y página de captura, con copy y lógica completos | Al montar el embudo |
 | `datos/` | Investigación cruda verificada | Re-ejecutar cada 90 días |
 
 ## Uso
