@@ -1,0 +1,5 @@
+# Activos pesados de producción: se versiona el texto, no los medios.
+videos/**/activos/*
+videos/**/audio/*
+videos/**/exportado/*
+!videos/**/.gitkeep
